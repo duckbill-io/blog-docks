@@ -1,7 +1,6 @@
 ---
-layout: post
-date: 18-12-14
-title: ubuntu安装使用scheme
+createdat: 18-12-14
+name: ubuntu安装使用scheme
 tags:
     - scheme
     - lisp

@@ -1,6 +1,6 @@
 ---
-title: "mysql语句极简入门"
-date: 2018-3-20
+name: "mysql语句极简入门"
+createdat: 2018-3-20
 tags:
    - 数据库
    - mysql
