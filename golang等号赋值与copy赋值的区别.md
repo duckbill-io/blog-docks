@@ -3,6 +3,7 @@ name: "golang等号赋值与copy赋值的区别"
 createdat: 2019-06-08
 tags:
     - golang
+    - slice
 ---
 
 ## golang等号赋值与copy赋值的区别
