@@ -1,5 +1,5 @@
 ---
-createdat: 18-12-14
+createdat: 2018-12-14
 name: ubuntu安装使用scheme
 tags:
     - scheme
