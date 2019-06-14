@@ -2,7 +2,7 @@
 name: webapps-for-beginners
 intro: "Read this book at your own pace, and do exercises at your own pace.
 "
-createdat: 20.04.2017
+createdat: 2017-04-20
 tags:
     - webapp
     - rails
