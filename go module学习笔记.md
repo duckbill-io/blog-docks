@@ -43,3 +43,6 @@ go 1.12
 #### 移除不再使用的依赖
 
 ### 参考文章
+
+- [using go module](https://blog.golang.org/using-go-modules)
+- [Go 语言的 Modules 系统介绍 ](https://studygolang.com/articles/14389)
